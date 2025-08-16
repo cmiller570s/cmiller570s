@@ -5,8 +5,13 @@ Welcome to my GitHub portfolio! I'm a **Cloud Engineer** with hands-on experienc
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 [Active Directory Homelab](https://github.com/cmiller570s/ActiveDirectoryLab)
-- Initiated a virtual Windows Server on KVM 
+- Initiated a virtual Windows Server on KVM
 
+[Linux Hardening Lab](https://github.com/cmiller570s/LinuxHardeningLab/blob/main/README.md) 
+- Reduce attack surface on a fresh Linux install  
+- Implement security controls following **CIS Benchmarks**  
+- Document baseline vs hardened state for learning and reference
+ 
 <h2>☁️ Cloud Projects:AWS :</h2>
 
 [AWS Infrastructure as Code](https://github.com/cmiller570s/LABURL)
